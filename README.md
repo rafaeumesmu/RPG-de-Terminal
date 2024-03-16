@@ -1,3 +1,3 @@
 # RPG-de-Terminal
 
-<img src="Capa-papillon"></img>
+<img src="Capa-papillon.png"></img>
