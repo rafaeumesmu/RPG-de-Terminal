@@ -1,4 +1,4 @@
 # RPG-de-Terminal
-### nome inspirado de um cabare muito famoso de luziânia
+### nome inspirado em um cabare muito famoso de luziânia
 <img src="Capa-papillon.png"></img>
 
